@@ -1,2 +1,2 @@
-# kodluyoruzhtmlodev2
-Kodluyoruz Eğitimi Ödev 2
+Kodluyoruz Eğitimi Html Ödev
+<img src="html-odev-2.png">
